@@ -21,7 +21,7 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method & Hello Team Good Morning and welcome to the session Good Job  !!!");
+	  System.out.println("Hello from Main Method & Hello Team Good evening and welcome to the session Good Job  !!!");
   }
 	
 }
