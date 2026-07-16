@@ -1,10 +1,8 @@
 package com.example;
-
 /**
  * This is a class.
  */
 public class Greeter {
-
   /**
    * This is a constructor.
    */
@@ -12,7 +10,6 @@ public class Greeter {
 
   }
 
-  
   //TODO: Add javadoc comment
   public String greet(String someone) {
     return String.format("Hello, %s!", someone);
@@ -21,7 +18,7 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method & Hello and welcome to the java platform !!!");
+	  System.out.println("Hello from Main Method & Hello and welcome to the java platform and THIS IS MY FIRST MAVEN PROJECT TOO !!!");
   }
 	
 }
